@@ -1,0 +1,27 @@
+{
+  "name": "@uncle-bot/rest",
+  "version": "1.0.0",
+  "description": "An amazing and customizable discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrquebec13/uncle-bot.git"
+  },
+  "keywords": [
+    "uncle",
+    "discord",
+    "bot",
+    "typescript",
+    "rest",
+    "api"
+  ],
+  "author": "Elie Grenon <DrunkenPoney> (drunkenponey@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrquebec13/uncle-bot/issues"
+  },
+  "homepage": "https://github.com/mrquebec13/uncle-bot#readme"
+}
