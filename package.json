@@ -1,8 +1,8 @@
 {
   "name": "@uncle-bot/rest",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "An amazing and customizable discord bot",
-  "main": "index.js",
+  "main": "out/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,13 +15,23 @@
     "discord",
     "bot",
     "typescript",
-    "rest",
-    "api"
+    "discorjs"
   ],
   "author": "Elie Grenon <DrunkenPoney> (drunkenponey@gmail.com)",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mrquebec13/uncle-bot/issues"
   },
-  "homepage": "https://github.com/mrquebec13/uncle-bot#readme"
+  "homepage": "https://github.com/mrquebec13/uncle-bot#readme",
+  "devDependencies": {
+    "@types/node": "^9.6.0",
+    "eslint": "^4.19.1",
+    "reflect-metadata": "^0.1.12",
+    "typescript": "^2.7.2"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "opusscript": "0.0.6"
+  }
 }
