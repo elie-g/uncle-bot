@@ -27,7 +27,7 @@
   "homepage": "https://github.com/mrquebec13/uncle-bot#readme",
   "devDependencies": {
     "@types/node": "^9.6.0",
-      "chai": "^4.1.2",
+      "chai": "^4.3.1",
     "reflect-metadata": "^0.1.12",
       "ts-node": "^5.0.1",
     "tslint": "^5.9.1",
