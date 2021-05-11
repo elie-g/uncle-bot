@@ -37,7 +37,7 @@
   "dependencies": {
       "chalk": "^2.3.2",
     "discord.js": "^11.3.2",
-    "dotenv": "^5.0.1",
+    "dotenv": "^9.0.2",
     "ffmpeg-binaries": "^3.2.2",
     "opusscript": "0.0.6"
   }
